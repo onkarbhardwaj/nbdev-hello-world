@@ -5,4 +5,11 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://onkarbhardwaj.github.io',
                 'git_url': 'https://github.com/onkarbhardwaj/nbdev-hello-world',
                 'lib_path': 'nbdev_hello_world'},
-  'syms': {'nbdev_hello_world.core': {'nbdev_hello_world.core.foo': ('core.html#foo', 'nbdev_hello_world/core.py')}}}
+  'syms': { 'nbdev_hello_world.core': { 'nbdev_hello_world.core.FooBar': ('core.html#foobar', 'nbdev_hello_world/core.py'),
+                                        'nbdev_hello_world.core.FooBar.__init__': ( 'core.html#foobar.__init__',
+                                                                                    'nbdev_hello_world/core.py'),
+                                        'nbdev_hello_world.core.FooBar.multiply': ( 'core.html#foobar.multiply',
+                                                                                    'nbdev_hello_world/core.py'),
+                                        'nbdev_hello_world.core.FooBar.reveal': ('core.html#foobar.reveal', 'nbdev_hello_world/core.py'),
+                                        'nbdev_hello_world.core.bar': ('core.html#bar', 'nbdev_hello_world/core.py'),
+                                        'nbdev_hello_world.core.foo': ('core.html#foo', 'nbdev_hello_world/core.py')}}}
