@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-hello-world",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "nbdev-hello-world"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-hello-world",
+    "section": "Install",
+    "text": "Install\npip install nbdev_hello_world",
+    "crumbs": [
+      "nbdev-hello-world"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-hello-world",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "nbdev-hello-world"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "core.html#these-are-related-symbols",
+    "href": "core.html#these-are-related-symbols",
+    "title": "core",
+    "section": "These are related symbols",
+    "text": "These are related symbols\n\nsource\n\nFooBar\n\n FooBar (name:str)\n\nInitialize FooBar instance with a name\n\n\n\n\nType\nDetails\n\n\n\n\nname\nstr\nname of this instance\n\n\n\n\nsource\n\n\nFooBar.reveal\n\n FooBar.reveal ()\n\nSay who you are!\n\nsource\n\n\nFooBar.multiply\n\n FooBar.multiply (times=1)\n\nAdd additional copies\n\n\n\n\nType\nDefault\nDetails\n\n\n\n\ntimes\nint\n1\nNumber of copies to add\n\n\n\n\nsource\n\n\nbar\n\n bar ()",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
